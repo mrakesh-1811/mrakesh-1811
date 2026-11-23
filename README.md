@@ -13,15 +13,20 @@
 
 <img src="assets/avatar.png" width="100%" alt="Rakesh Neon Avatar"/>
 
+<br/>
+
 <sub><b>[ M RAKESH • AI & ML ]</b></sub>
-<div align="center">
-  <img src="scan-avatar.svg" width="420" alt="Mekapati Rakesh AI Scan"/>
-</div>
+
+<br/><br/>
+
+<img src="scan-avatar.svg" width="420" alt="Mekapati Rakesh AI Scanning Portrait"/>
+
 </td>
 
 <td width="62%" valign="middle">
 
 # Hi 👋
+
 # I'm <span style="color:#22d3ee">M Rakesh</span>
 
 `AI & Machine Learning Student | Aspiring AI Engineer`
