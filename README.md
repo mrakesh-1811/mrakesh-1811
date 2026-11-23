@@ -19,8 +19,7 @@
 
 <br/><br/>
 
-<img src="scan-avatar.svg" width="420" alt="Mekapati Rakesh AI Scanning Portrait"/>
-
+<img src="rakesh-ai-scan/scan-avatar.svg" width="420" alt="Mekapati Rakesh AI Scanning Portrait"/>
 </td>
 
 <td width="62%" valign="middle">
