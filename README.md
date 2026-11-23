@@ -1,39 +1,34 @@
 
 <div align="center">
 
-<img src="rakesh_neon_fire_banner.png" width="100%" alt="M Rakesh Neon AI Banner"/>
+<img src="rakesh_ai_cyber_banner.png" width="100%" alt="M Rakesh AI Cyberpunk Developer Banner"/>
 
 <br/>
 
-# 👋 Hey, I'm <span style="color:#22D3EE">M Rakesh</span>
+# ⚡ M Rakesh
 
-### 💻 AI & Machine Learning Student | Aspiring AI Engineer
+### AI & Machine Learning Student | Aspiring AI Engineer
 
-<img src="rakesh_scanner.gif" width="420" alt="M Rakesh AI Scanner Portrait"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;AI+%26+Machine+Learning+Student;Python+%7C+C%2B%2B+%7C+Machine+Learning;Building+the+Future+with+Code)](https://git.io/typing-svg)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Student;Building+my+future+with+code;Learning+Python+%7C+C%2B%2B+%7C+ML;Code.+Build.+Innovate.+Repeat.)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/AI%20ENGINEER-IN%20PROGRESS-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-22D3EE?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="140" src="assets/avatar.png" alt="Rakesh Avatar"/>
-
-- 🎓 B.Tech CSE — Artificial Intelligence & Machine Learning
+- 🎓 B.Tech in Computer Science — Artificial Intelligence & Machine Learning
 - 🏫 SRM Institute of Science and Technology, Kattankulathur
 - 📍 Hyderabad, India
-- 🧠 Exploring Artificial Intelligence and Machine Learning
+- 🧠 Exploring AI, ML and intelligent systems
 - 💻 Learning Python, C, C++ and Data Structures & Algorithms
-- 🔬 Interested in building real-world intelligent systems
-- 🚀 Goal: Become an AI/ML Engineer
+- 🔬 Interested in real-world problem solving through technology
+- 🎯 My goal is to become an AI/ML Engineer
 
-> **I don't just want to learn technology. I want to build something meaningful with it.**
-
-<br clear="right"/>
+> *Dream big. Learn deeply. Build things that matter.*
 
 ---
 
@@ -41,33 +36,17 @@
 
 <div align="center">
 
-### Languages
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark"/>
 
-### AI • ML • Data
+### 🧠 AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy&theme=dark"/>
 
-### Tools & Platforms
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrakesh-1811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrakesh-1811&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=mrakesh-1811&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -87,63 +66,74 @@
 
 ### 🚗 Vehicle Emissions Prediction using Machine Learning
 
-A machine learning project exploring vehicle emissions prediction using regression algorithms.
+Machine learning project to explore and predict vehicle emissions using regression models.
 
 - 🤖 Linear Regression
 - 🌲 Random Forest
 - ⚡ Gradient Boosting
-- 📊 MAE, RMSE & R² evaluation
-- 🛠️ Python, Pandas, NumPy, Scikit-learn
-
-> Dataset currently contains synthetic sample data for testing and experimentation.
+- 📊 MAE, RMSE and R² evaluation
+- 🛠 Python, NumPy, Pandas, Scikit-learn
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrakesh-1811&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrakesh-1811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrakesh-1811&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=mrakesh-1811&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 My Current Mission
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrakesh-1811&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 My Mission
 
 ```text
-> Learn something new every day
-> Improve my problem-solving skills
-> Build real-world AI/ML projects
-> Master Data Structures & Algorithms
-> Turn ideas into working projects
-> Become an AI Engineer
+[01] Learn AI & Machine Learning
+[02] Master Data Structures & Algorithms
+[03] Build projects that solve real problems
+[04] Improve every day
+[05] Become an AI Engineer
 ```
 
 ---
 
 <div align="center">
 
-<img src="rakesh_neon_fire.gif" width="100%" alt="M Rakesh Neon Fire Animation"/>
-
-# ⚡ BUILD • LEARN • CREATE • REPEAT ⚡
-
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <a href="https://github.com/mrakesh-1811">
-<img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-8B5CF6?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rakesh-m-84463837b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-22D3EE?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=mrakesh-1811&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITORS"/>
 
-<br/>
+<br/><br/>
 
-### <span style="color:#8B5CF6">⚡ DREAM BIG. CODE BIGGER. ⚡</span>
+# ⚡ CODE • BUILD • INNOVATE ⚡
+
+### <i>Turning ideas into intelligence.</i>
 
 </div>
