@@ -5,11 +5,11 @@
 
 <br/>
 
-# <span style="color:#8B5CF6">Hey, I'm</span> <span style="color:#22D3EE">M Rakesh</span> 👋
+# 👋 Hey, I'm <span style="color:#22D3EE">M Rakesh</span>
 
-### 💻 AI & Machine Learning Student | Future AI Engineer
+### 💻 AI & Machine Learning Student | Aspiring AI Engineer
 
-<img src="rakesh-ai-scan/scan-avatar.svg" width="350" alt="M Rakesh AI Scanning Avatar"/>
+<img src="rakesh_scanner.gif" width="420" alt="M Rakesh AI Scanner Portrait"/>
 
 <br/>
 
@@ -47,7 +47,7 @@
 
 ### AI • ML • Data
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,numpy&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy&theme=dark"/>
 
 ### Tools & Platforms
 
@@ -65,7 +65,7 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrakesh-1811&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=mrakesh-1811&theme=tokyonight&hide_border=true"/>
 
@@ -95,13 +95,15 @@ A machine learning project exploring vehicle emissions prediction using regressi
 - 📊 MAE, RMSE & R² evaluation
 - 🛠️ Python, Pandas, NumPy, Scikit-learn
 
+> Dataset currently contains synthetic sample data for testing and experimentation.
+
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrakesh-1811&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrakesh-1811&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
@@ -122,9 +124,9 @@ A machine learning project exploring vehicle emissions prediction using regressi
 
 <div align="center">
 
-<img src="rakesh_neon_fire.gif" width="100%" alt="Neon Rakesh Animation"/>
+<img src="rakesh_neon_fire.gif" width="100%" alt="M Rakesh Neon Fire Animation"/>
 
-### <span style="color:#22D3EE">BUILD • LEARN • CREATE • REPEAT</span>
+# ⚡ BUILD • LEARN • CREATE • REPEAT ⚡
 
 ### 🌐 Connect With Me
 
@@ -142,6 +144,6 @@ A machine learning project exploring vehicle emissions prediction using regressi
 
 <br/>
 
-### <span style="color:#8B5CF6">⚡ Dream Big. Code Bigger. ⚡</span>
+### <span style="color:#8B5CF6">⚡ DREAM BIG. CODE BIGGER. ⚡</span>
 
 </div>
