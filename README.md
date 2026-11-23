@@ -1,359 +1,94 @@
-<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', 'SF Pro Display', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyOGUzYTVmZS05ZTY3LTQ4MTQtOWFiOS0zZDU5YjFkZmVhODgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPk+UfjUG28OWaoteTsREGgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3NWQ0MjhhYi1mYzQ2LTRmMTQtOGZkMy00NDdlZjI5OGE2NmJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoa+FCchnDWvn9TzbS0NmmzwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggW571me7ZvkNQARDCltJLDm+T5VYekRm0Eh6fgH+YD/WkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIke2AoCbgRbLeQVwwreo/cAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAsnfU3jylk/hSW9WnpvYV2Y9xRZOegphLUYeLAYsV+IWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjhZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjI4ZTNhNWZlLTllNjctNDgxNC05YWI5LTNkNTliMWRmZWE4OC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY1ZTBmODc2LWQ2YzctNGIzYS1hYjM1LTg3ZmJkNjhlNTU5ZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBbnvWZ7tm+Q1ABEMKW0ksOb5PlVh6RGbQSHp+Af5gP9aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggnxyNMq/1IN6NRm3oP+BoygciPTkKf2ow5LBZ5BpSPMWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgguMV+aQBaRu8NzH9vIt0SVrfDze2+67/lTJahBZA4ee10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPmLOTapJZzMovfwiLHPEd6bh93Qf7fYjwGa0Dr5/HwHk/b6koF8qs85hr5VJrtMGF8QmaJsOyxE8oTsTuywTVY=</c2pa:manifest></metadata>
-<defs>
+<div align="center">
 
-    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7C3AED"/>
-      <stop offset="50%" stop-color="#22D3EE"/>
-      <stop offset="100%" stop-color="#10B981"/>
-    </linearGradient>
+<table>
+<tr>
+<td width="38%" align="center" valign="middle">
 
-    <linearGradient id="asciiGrad" gradientUnits="userSpaceOnUse" x1="-300" y1="0" x2="100" y2="0">
-      <stop offset="0%" stop-color="#8B5CF6"/>
-      <stop offset="50%" stop-color="#22D3EE"/>
-      <stop offset="100%" stop-color="#8B5CF6"/>
-      <animate attributeName="x1" values="-300;900;-300" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="100;1300;100" dur="6s" repeatCount="indefinite"/>
-    </linearGradient>
+<img src="assets/avatar.png" width="100%" alt="Rakesh in a neon purple and cyan developer studio"/>
 
-    <linearGradient id="shimmerGrad" gradientUnits="objectBoundingBox" x1="-1" y1="0" x2="0" y2="0">
-      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
-      <animate attributeName="x1" values="-1;2" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0;3" dur="4s" repeatCount="indefinite"/>
-    </linearGradient>
+<sub><b>[ M RAKESH • AI & ML ]</b></sub>
 
-    <radialGradient id="glow1" cx="15%" cy="10%" r="60%">
-      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow2" cx="90%" cy="85%" r="60%">
-      <stop offset="0%" stop-color="#10B981" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow3" cx="70%" cy="15%" r="50%">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
+</td>
+<td width="62%" valign="middle">
 
-    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="18"/>
-    </filter>
-    <filter id="pillGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="noiseFilter">
-      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" result="n"/>
-      <feColorMatrix in="n" type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.05 0"/>
-    </filter>
+# Hi 👋
+# I'm <span style="color:#22d3ee">M Rakesh</span>
 
-    <clipPath id="canvasClip">
-      <rect x="0" y="0" width="1180" height="610" rx="24"/>
-    </clipPath>
-    <clipPath id="leftPanelClip">
-      <rect x="40" y="40" width="430" height="530" rx="18"/>
-    </clipPath>
-    
+`AI & Machine Learning Student | Aspiring AI Engineer`
 
-    <clipPath id="typeClip0">
-      <rect x="0" y="0" width="0" height="34">
-        <animate attributeName="width" values="0;0;480;480;0;0" keyTimes="0.0000;0.0000;0.0750;0.3208;0.3333;1.0000" dur="12.0s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
+**LOCATION** &nbsp; Hyderabad, India  
+**EDUCATION** &nbsp; B.Tech CSE — AI & ML, SRM KTR  
+**FOCUS** &nbsp; Python • C++ • DSA • Machine Learning  
+**GITHUB** &nbsp; [mrakesh-1811](https://github.com/mrakesh-1811)
 
-    <clipPath id="typeClip1">
-      <rect x="0" y="0" width="0" height="34">
-        <animate attributeName="width" values="0;0;480;480;0;0" keyTimes="0.0000;0.3333;0.4083;0.6542;0.6667;1.0000" dur="12.0s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
+### SKILLS
 
-    <clipPath id="typeClip2">
-      <rect x="0" y="0" width="0" height="34">
-        <animate attributeName="width" values="0;0;480;480;0;0" keyTimes="0.0000;0.6667;0.7417;0.9875;1.0000;1.0000" dur="12.0s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
-</defs>
-<g clip-path="url(#canvasClip)">
-<rect x="0" y="0" width="1180" height="610" fill="#030712"/>
+![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=35D8FF)
+![C](https://img.shields.io/badge/C-111827?style=flat&logo=c&logoColor=35D8FF)
+![C++](https://img.shields.io/badge/C++-111827?style=flat&logo=cplusplus&logoColor=35D8FF)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=flat&logo=scikitlearn&logoColor=35D8FF)
+![Git](https://img.shields.io/badge/Git-111827?style=flat&logo=git&logoColor=35D8FF)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=35D8FF)
 
-    <g>
-      <circle cx="180" cy="80" r="260" fill="url(#glow1)">
-        <animateTransform attributeName="transform" type="translate" values="0,0;20,15;0,0" dur="9s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="1020" cy="540" r="300" fill="url(#glow2)">
-        <animateTransform attributeName="transform" type="translate" values="0,0;-25,-10;0,0" dur="11s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="820" cy="90" r="220" fill="url(#glow3)">
-        <animateTransform attributeName="transform" type="translate" values="0,0;-15,20;0,0" dur="8s" repeatCount="indefinite"/>
-      </circle>
-    </g>
-<rect x="0" y="0" width="1180" height="610" filter="url(#noiseFilter)"/>
-<g>
-      <circle cx="723" cy="545" r="2" fill="#22D3EE" opacity="0.53">
-        <animateTransform attributeName="transform" type="translate" values="0,0;-17,-26;0,0" dur="9s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.53;0.16;0.53" dur="4.5s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="1099" cy="169" r="1.5" fill="#22D3EE" opacity="0.34">
-        <animateTransform attributeName="transform" type="translate" values="0,0;28,-22;0,0" dur="6s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.34;0.10;0.34" dur="3.0s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="929" cy="90" r="1.5" fill="#22D3EE" opacity="0.69">
-        <animateTransform attributeName="transform" type="translate" values="0,0;-33,16;0,0" dur="7s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.69;0.21;0.69" dur="3.5s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="155" cy="345" r="2" fill="#22D3EE" opacity="0.42">
-        <animateTransform attributeName="transform" type="translate" values="0,0;19,-33;0,0" dur="8s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.42;0.13;0.42" dur="4.0s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="430" cy="112" r="2" fill="#22D3EE" opacity="0.32">
-        <animateTransform attributeName="transform" type="translate" values="0,0;-32,-33;0,0" dur="8s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.32;0.10;0.32" dur="4.0s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="481" cy="314" r="3" fill="#22D3EE" opacity="0.42">
-        <animateTransform attributeName="transform" type="translate" values="0,0;33,26;0,0" dur="8s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.42;0.13;0.42" dur="4.0s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="428" cy="417" r="2" fill="#22D3EE" opacity="0.59">
-        <animateTransform attributeName="transform" type="translate" values="0,0;31,25;0,0" dur="6s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.59;0.18;0.59" dur="3.0s" repeatCount="indefinite"/>
-      </circle></g>
+</td>
+</tr>
+</table>
 
-    <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5"/>
-    <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="url(#shimmerGrad)" stroke-width="1.5"/>
-    
+</div>
 
-    <rect x="40" y="40" width="430" height="530" rx="18" fill="#0F172A" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.10"/>
-    
+---
 
-    <circle cx="66" cy="66" r="6" fill="#FF5F56"/>
-    <circle cx="86" cy="66" r="6" fill="#FFBD2E"/>
-    <circle cx="106" cy="66" r="6" fill="#27C93F"/>
-    <text x="454" y="70" text-anchor="end" font-family="monospace" font-size="11" fill="#94A3B8">ascii://ayush</text>
-    <line x1="56" y1="86" x2="454" y2="86" stroke="#FFFFFF" stroke-opacity="0.10"/>
-    
+- 👋 I'm a **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur**, building my foundations in computer science, AI, and machine learning.
+- 🛠️ I enjoy building, debugging, and understanding how technology works.
+- 📚 Currently learning **Python, Data Structures & Algorithms, and Machine Learning**.
+- 🎯 Working toward becoming an **AI/ML Engineer**.
 
-    <g clip-path="url(#leftPanelClip)">
-      <g>
-        
-      <text xml:space="preserve" x="81.0" y="98.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.000;0.055;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="106.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.013;0.068;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="114.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                                  ...<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.026;0.081;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="122.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                              :+*###**++===-:.  ..<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.039;0.094;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="130.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                          .=*##**######***###**++=                          ...........<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.052;0.107;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="138.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">................        -*#########%%%######%%%%#*-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.065;0.120;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="146.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                       .##****###%%%%##%%%%%%@@@%##-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.078;0.133;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="154.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                      :#**###%%%###%%%%%%@%%%@@@%%#*<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.091;0.146;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="162.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                      ####%%%%%#%%%%%@@@@@%@%@@%@%#*<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.104;0.159;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="170.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                      ###**#####%%%%%%@@@%%%@@%%%%#+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.117;0.172;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="178.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                      ###########%%%%%%%@%%%%@%%%#*.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.130;0.185;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="186.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                      *%%%%%%%%%%%%%%%%%%#####%##*-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.143;0.198;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="194.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                      .%#%#%%%%%%%%%%%%####***##*+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.156;0.211;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="202.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                       #%%##%%%%@@%%%%%%%##***###==+.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.169;0.224;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="210.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                       -@%%%@%@@%%%%%%@%####****=++=<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.182;0.237;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="218.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                       :%#%@@@@@@@@@@@%%##*==+*::=:<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.195;0.250;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="226.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                        *#%%@@@@@@@@@@%#*+==--=:::+.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.208;0.263;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="234.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                         +###%@@@@@@%#++*+=---==.:*@:<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.221;0.276;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="242.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                         :+*##%@%%%%#***+=---=*+=-+%##+-.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.234;0.289;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="250.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                          =+*#+++++++++-:::-=+****%@#%%%##*=.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.247;0.302;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="258.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                       :=**+*-.::::-=-..::-=++*#*%@%%%####%@%#*=:<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.260;0.315;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="266.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">                  :=*#%%@%###- .:::=+**+++***##**%@@@%####%%%%#%%##+=.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.273;0.328;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="274.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">               :+#%%%%%@%###%%*=-+++=++***#%%*+#@@@@%%%###%%%%####%%%%#+:<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.286;0.341;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="282.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">             -##%#%%%%%@%#%%%%@@*======+*##*++%@@@@@%%%%##%%@@####%%######<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.299;0.354;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="290.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">            =%####%%%%@@%#%%%%%@@###**%%#*=-*@@@@@%%%%%%#%%%@%#%%%%%%#####*<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.312;0.367;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="298.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">           -#####%%#%%@%%%%%%%%%%%%@@@@@#=-#@@@@@%%%%%%%%%#%%%%@%%%%#######-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.325;0.380;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="306.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">          -#*####%%%@%%%%%%%%##%%%#%%%%%@#%@@@@%%%%%%%###%%%%%%%%#%%########<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.338;0.393;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="314.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">          %*##%#%%%%%%%%%%%%%###%%%%%%%#%@@@@%%%%%%%####%%#%%#%%%#%%########-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.351;0.406;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="322.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">         +%###%%%%%@%%%%%%%%%###%%%%%%%@@%%%%%%%%%%#####%%#%%#%@%%%#########*<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.364;0.419;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="330.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">         ######%%%@@%%%%%%%%%%##%%%#%%@@%%%%%%%%########%%%##%%@%%###########:<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.377;0.432;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="338.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">        =##%####%@@@%%%%%%%%##%%%%##%%@%%%%%%%%#%#######%%%##%%@%#%%##%%%####+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.390;0.445;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="346.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">        ####%#%%%%@%%%%%%%%%%%%%####%%%%%%%%%%%%%########%%%#%@@%%%##%%%######.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.403;0.458;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="354.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">       =########%%@%%%%%%%%%%%%###%%%%%%##%%%%%%%########%%%#@@@%%%#%%%#######=<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.416;0.471;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="362.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">       *######%%%@@%%%%%%%%%%###%%%%%%%###%%%%%##########%%%%@@@@%%%%%########*<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.429;0.484;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="370.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">      .%#######%%@@%%%%%%%%%%##%%%%%%%%###%%%%%###########%%%@@@@%%%%##########<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.442;0.497;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="378.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">      +%########%@@%@%%%%%%%%%%%%%%%%%%%%%%%%%%%##%%%%%##%%%%@@@@@%%%##########-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.455;0.510;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="386.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">      #########%%%@%@@@@%%%%%%%%%%%%%%%%%%%%%%%%#%%%@@@@%%%%%@@@@%%%###########*<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.468;0.523;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="394.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">     =#########%%@@%@@@@@%%%%%%%%%%%%%%%#%%%%%%%####%%%%%%%%%@@@%%%#############<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.481;0.536;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="402.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">     ####%####%%%@@%@@@@%%%%%%%%%%%%%%#%%%%%%%####%%%%%%%%%%@@@@%%%%##########*#<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.494;0.549;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="410.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">     #####%###%%%@@%@@@@@%%%%%%%%%%%%%###%%%%%###%@@@@%%%%%%@@@%%%%############%:<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.507;0.562;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="418.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">     #######%#%%@@@@@@@@@%%@@%%%%%%%%%%%%%%%%#%%%@@@@@%@%%%%@@@@%%%%###%%%%##%#%#<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.520;0.575;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="426.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">    =########%#*%#*++=-:-=+**#%%%%%%%%%%%%%%%#%%%%%%@@@@@%%@@@@@@@%%%%###########<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.533;0.588;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="434.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">    ########%%*...           .:=++++*########%%%@@@%%%%%#***++*%%%%%%%%#########+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.546;0.601;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="442.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">   =%###%%%@=...                :----...:::::::::--:::::.....  :###############%:<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.559;0.614;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="450.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">   +######%@*=--:..          ..-++*++:.......................   =###############<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.572;0.627;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="458.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">   -#####%@@@+::.  ...........=*+=++++::.............:..........:##%####%%#####*<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.585;0.640;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="466.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">   +%#####%@%-----::..::::::::*#+--+##::::::::::::::::::::::::::-%%%%%%%%%%%##%.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.598;0.653;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="474.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">   =#######%@@@+-..:::::....::=%#**#@#*+==------------------====-#@%%%%%%@%@%%=<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.611;0.666;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="482.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">   .###%%%%%@@@- *+=:...:-=+*%@@@@@@@@@@@%%###**++===============%@@@%%@@@%##-<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.624;0.679;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="490.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">    #++=====+*@= @-.-=*#%@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%########%@%%@*<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.637;0.692;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="498.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">    :     ..::+-=@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@%%%%@.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.650;0.705;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="506.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">    :......::-=-%@@@@@@@%@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%#%@#<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.663;0.718;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="514.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">    :.......:-=*@@@@@@@@%%@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%#%@.<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.676;0.731;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="522.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">    :.......:--*@@@@@@@@%%@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%##%%#<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.689;0.744;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-      <text xml:space="preserve" x="81.0" y="530.0" text-anchor="start" font-family="'Courier New', monospace" font-size="6.6" fill="url(#asciiGrad) #22D3EE" opacity="1">.   :.......:--#@@@@@@@@%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%####@+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.702;0.757;1" dur="5.5s" begin="0s" fill="freeze"/></text>
-        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="4.5s" repeatCount="indefinite"/>
-      </g>
-      <rect x="40" y="40" width="430" height="3" fill="#22D3EE" opacity="0.07">
-        <animate attributeName="y" values="40;570;40" dur="5s" repeatCount="indefinite"/>
-      </rect>
-    </g>
-    <text x="255.0" y="548" text-anchor="middle" font-family="monospace" font-size="12" fill="#94A3B8">[ B.Tech CSE - AI &amp; ML | SRM IST ]</text>
-    
+---
 
-    <rect x="500" y="40" width="640" height="530" rx="18" fill="#0F172A" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.10"/>
-    <circle cx="526" cy="66" r="6" fill="#FF5F56"/>
-    <circle cx="546" cy="66" r="6" fill="#FFBD2E"/>
-    <circle cx="566" cy="66" r="6" fill="#27C93F"/>
-    <text x="1124" y="70" text-anchor="end" font-family="monospace" font-size="11" fill="#94A3B8">ayush@jarvis: ~</text>
-    <line x1="516" y1="86" x2="1124" y2="86" stroke="#FFFFFF" stroke-opacity="0.10"/>
-    
+## 🚀 Featured Project
 
-    <text x="536" y="132" font-size="26" fill="#F8FAFC">Hi 👋</text>
-    <text x="536" y="174" font-size="34" font-weight="700" fill="url(#accentGrad)">I'm Ayush</text>
-    
+### 🚗 Vehicle Emissions Prediction using Machine Learning
 
-    <g clip-path="url(#typeClip0)">
-      <text x="536" y="212" font-family="monospace" font-size="18" fill="#22D3EE">Learning DSA and Python from scratch</text>
-    </g>
+A machine-learning project comparing regression models for vehicle CO₂ emissions prediction.
 
-    <g clip-path="url(#typeClip1)">
-      <text x="536" y="212" font-family="monospace" font-size="18" fill="#22D3EE">Building JARVIS - a personal AI assistant</text>
-    </g>
+- **Models:** Linear Regression • Random Forest • Gradient Boosting
+- **Metrics:** MAE • RMSE • R²
+- **Tools:** Python • Pandas • NumPy • Scikit-learn
+- **Dataset note:** The current sample dataset is synthetic and intended for practice/testing, not real-world emissions claims.
 
-    <g clip-path="url(#typeClip2)">
-      <text x="536" y="212" font-family="monospace" font-size="18" fill="#22D3EE">Aspiring ML Engineer | Open to opportunities</text>
-    </g>
+[![Vehicle Emissions ML](https://github-readme-stats.vercel.app/api/pin/?username=mrakesh-1811&repo=vehicle-emissions-ml&theme=tokyonight&hide_border=true)](https://github.com/mrakesh-1811/vehicle-emissions-ml)
 
-    <rect x="536" y="197" width="2" height="18" fill="#22D3EE">
-      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
-    </rect>
+---
 
-    <g opacity="0">
-      <text x="536" y="256" font-family="monospace" font-size="12.5" letter-spacing="1" fill="#94A3B8">LOCATION</text>
-      <text x="656" y="256" font-family="monospace" font-size="12.5" fill="#F8FAFC">SRM IST, Kattankulathur (KTR)</text>
-      <animate attributeName="opacity" values="0;1" begin="0.4s" dur="0.5s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" begin="0.4s" dur="0.5s" fill="freeze"/>
-    </g>
+## 📊 GitHub Stats
 
-    <g opacity="0">
-      <text x="536" y="286" font-family="monospace" font-size="12.5" letter-spacing="1" fill="#94A3B8">EDUCATION</text>
-      <text x="656" y="286" font-family="monospace" font-size="12.5" fill="#F8FAFC">B.Tech CSE - AI &amp; ML, 2nd Year</text>
-      <animate attributeName="opacity" values="0;1" begin="0.68s" dur="0.5s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" begin="0.68s" dur="0.5s" fill="freeze"/>
-    </g>
+<div align="center">
 
-    <g opacity="0">
-      <text x="536" y="316" font-family="monospace" font-size="12.5" letter-spacing="1" fill="#94A3B8">FOCUS</text>
-      <text x="656" y="316" font-family="monospace" font-size="12.5" fill="#F8FAFC">DSA - Python - Machine Learning</text>
-      <animate attributeName="opacity" values="0;1" begin="0.9600000000000001s" dur="0.5s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" begin="0.9600000000000001s" dur="0.5s" fill="freeze"/>
-    </g>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mrakesh-1811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrakesh-1811&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-    <g opacity="0">
-      <text x="536" y="346" font-family="monospace" font-size="12.5" letter-spacing="1" fill="#94A3B8">PORTFOLIO</text>
-      <text x="656" y="346" font-family="monospace" font-size="12.5" fill="#F8FAFC">github.com/ayushchaudharyx777-cmyk</text>
-      <animate attributeName="opacity" values="0;1" begin="1.2400000000000002s" dur="0.5s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" begin="1.2400000000000002s" dur="0.5s" fill="freeze"/>
-    </g>
+<br/>
 
-    <g opacity="0">
-      <text x="536" y="376" font-family="monospace" font-size="12.5" letter-spacing="1" fill="#94A3B8">EMAIL</text>
-      <text x="656" y="376" font-family="monospace" font-size="12.5" fill="#F8FAFC">ayushchaudharyx777@gmail.com</text>
-      <animate attributeName="opacity" values="0;1" begin="1.52s" dur="0.5s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" begin="1.52s" dur="0.5s" fill="freeze"/>
-    </g>
-<line x1="536" y1="412" x2="1104" y2="412" stroke="#FFFFFF" stroke-opacity="0.10"/>
-<text x="536" y="438" font-family="monospace" font-size="12" letter-spacing="1" fill="#94A3B8">SKILLS</text>
+<img src="https://streak-stats.demolab.com?user=mrakesh-1811&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-    <g opacity="0" filter="url(#pillGlow)">
-      <rect x="536" y="450" width="62" height="27" rx="15" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1"/>
-      <text x="567" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#F8FAFC">Python</text>
-      <animate attributeName="opacity" values="0;1" begin="2.2s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0.75;1" begin="2.6s" dur="2.6s" repeatCount="indefinite"/>
-    </g>
+</div>
 
-    <g opacity="0" filter="url(#pillGlow)">
-      <rect x="608.0" y="450" width="60" height="27" rx="15" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1"/>
-      <text x="638" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#F8FAFC">C++</text>
-      <animate attributeName="opacity" values="0;1" begin="2.35s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0.75;1" begin="2.75s" dur="2.6s" repeatCount="indefinite"/>
-    </g>
+---
 
-    <g opacity="0" filter="url(#pillGlow)">
-      <rect x="678.0" y="450" width="90" height="27" rx="15" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1"/>
-      <text x="723" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#F8FAFC">JavaScript</text>
-      <animate attributeName="opacity" values="0;1" begin="2.5s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0.75;1" begin="2.9s" dur="2.6s" repeatCount="indefinite"/>
-    </g>
+## 📈 Contribution Activity
 
-    <g opacity="0" filter="url(#pillGlow)">
-      <rect x="778.0" y="450" width="76" height="27" rx="15" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1"/>
-      <text x="816" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#F8FAFC">HTML/CSS</text>
-      <animate attributeName="opacity" values="0;1" begin="2.6500000000000004s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0.75;1" begin="3.0500000000000003s" dur="2.6s" repeatCount="indefinite"/>
-    </g>
+<div align="center">
 
-    <g opacity="0" filter="url(#pillGlow)">
-      <rect x="864.0" y="450" width="90" height="27" rx="15" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1"/>
-      <text x="909" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#F8FAFC">TensorFlow</text>
-      <animate attributeName="opacity" values="0;1" begin="2.8000000000000003s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0.75;1" begin="3.2s" dur="2.6s" repeatCount="indefinite"/>
-    </g>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrakesh-1811&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/>
 
-    <g opacity="0" filter="url(#pillGlow)">
-      <rect x="964.0" y="450" width="104" height="27" rx="15" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1"/>
-      <text x="1016" y="470" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#F8FAFC">Scikit-learn</text>
-      <animate attributeName="opacity" values="0;1" begin="2.95s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0.75;1" begin="3.35s" dur="2.6s" repeatCount="indefinite"/>
-    </g>
+</div>
 
-    <g opacity="0" filter="url(#pillGlow)">
-      <rect x="536" y="489" width="60" height="27" rx="15" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1"/>
-      <text x="566" y="509" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#F8FAFC">Git</text>
-      <animate attributeName="opacity" values="0;1" begin="3.1s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0.75;1" begin="3.5s" dur="2.6s" repeatCount="indefinite"/>
-    </g>
+---
 
-    <g opacity="0" filter="url(#pillGlow)">
-      <rect x="606" y="489" width="60" height="27" rx="15" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1"/>
-      <text x="636" y="509" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#F8FAFC">Linux</text>
-      <animate attributeName="opacity" values="0;1" begin="3.25s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0.75;1" begin="3.65s" dur="2.6s" repeatCount="indefinite"/>
-    </g>
+<div align="center">
 
-    <g opacity="0" filter="url(#pillGlow)">
-      <rect x="676" y="489" width="60" height="27" rx="15" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1"/>
-      <text x="706" y="509" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#F8FAFC">MySQL</text>
-      <animate attributeName="opacity" values="0;1" begin="3.4000000000000004s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0.75;1" begin="3.8000000000000003s" dur="2.6s" repeatCount="indefinite"/>
-    </g>
+### `BUILD • LEARN • GROW`
 
-    <g opacity="0" filter="url(#pillGlow)">
-      <rect x="746" y="489" width="62" height="27" rx="15" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1"/>
-      <text x="777" y="509" text-anchor="middle" font-family="monospace" font-size="12.5" fill="#F8FAFC">Ollama</text>
-      <animate attributeName="opacity" values="0;1" begin="3.55s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0.75;1" begin="3.9499999999999997s" dur="2.6s" repeatCount="indefinite"/>
-    </g>
+[GitHub](https://github.com/mrakesh-1811) • [LinkedIn](https://www.linkedin.com/in/rakesh-m-84463837b/)
 
-    <g opacity="0">
-      <circle cx="536" cy="544" r="18" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1.3"/>
-      <text x="536" y="548" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#F8FAFC">GH</text>
-      <animate attributeName="opacity" values="0;1" begin="3.4s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="r" values="18;19.5;18" begin="3.8s" dur="2.4s" repeatCount="indefinite"/>
-    </g>
-
-    <g opacity="0">
-      <circle cx="590" cy="544" r="18" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1.3"/>
-      <text x="590" y="548" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#F8FAFC">in</text>
-      <animate attributeName="opacity" values="0;1" begin="3.6s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="r" values="18;19.5;18" begin="4.0s" dur="2.4s" repeatCount="indefinite"/>
-    </g>
-
-    <g opacity="0">
-      <circle cx="644" cy="544" r="18" fill="#0F172A" stroke="url(#accentGrad)" stroke-width="1.3"/>
-      <text x="644" y="548" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#F8FAFC">@</text>
-      <animate attributeName="opacity" values="0;1" begin="3.8s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="r" values="18;19.5;18" begin="4.2s" dur="2.4s" repeatCount="indefinite"/>
-    </g>
-</g>
-</svg>
+</div>
