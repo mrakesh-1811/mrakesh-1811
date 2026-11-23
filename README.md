@@ -1,14 +1,22 @@
+
+<div align="center">
+
+<img src="rakesh_neon_fire.gif" width="100%" alt="Rakesh Neon Fire Animation"/>
+
+</div>
+
 <div align="center">
 
 <table>
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="assets/avatar.png" width="100%" alt="Rakesh in a neon purple and cyan developer studio"/>
+<img src="assets/avatar.png" width="100%" alt="Rakesh Neon Avatar"/>
 
 <sub><b>[ M RAKESH • AI & ML ]</b></sub>
 
 </td>
+
 <td width="62%" valign="middle">
 
 # Hi 👋
@@ -38,6 +46,12 @@
 
 ---
 
+<div align="center">
+
+### `BUILD • LEARN • GROW`
+
+</div>
+
 - 👋 I'm a **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur**, building my foundations in computer science, AI, and machine learning.
 - 🛠️ I enjoy building, debugging, and understanding how technology works.
 - 📚 Currently learning **Python, Data Structures & Algorithms, and Machine Learning**.
@@ -54,9 +68,13 @@ A machine-learning project comparing regression models for vehicle CO₂ emissio
 - **Models:** Linear Regression • Random Forest • Gradient Boosting
 - **Metrics:** MAE • RMSE • R²
 - **Tools:** Python • Pandas • NumPy • Scikit-learn
-- **Dataset note:** The current sample dataset is synthetic and intended for practice/testing, not real-world emissions claims.
+- **Dataset:** Sample synthetic dataset for practice and testing.
+
+<div align="center">
 
 [![Vehicle Emissions ML](https://github-readme-stats.vercel.app/api/pin/?username=mrakesh-1811&repo=vehicle-emissions-ml&theme=tokyonight&hide_border=true)](https://github.com/mrakesh-1811/vehicle-emissions-ml)
+
+</div>
 
 ---
 
@@ -65,6 +83,7 @@ A machine-learning project comparing regression models for vehicle CO₂ emissio
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mrakesh-1811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrakesh-1811&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <br/>
@@ -87,8 +106,15 @@ A machine-learning project comparing regression models for vehicle CO₂ emissio
 
 <div align="center">
 
-### `BUILD • LEARN • GROW`
+### 🌐 Connect With Me
 
-[GitHub](https://github.com/mrakesh-1811) • [LinkedIn](https://www.linkedin.com/in/rakesh-m-84463837b/)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/mrakesh-1811)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakesh-m-84463837b/)
+
+<br/>
+
+### `CODE • CREATE • INNOVATE`
+
+<sub>Learning today. Building tomorrow. 🚀</sub>
 
 </div>
