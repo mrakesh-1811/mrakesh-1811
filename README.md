@@ -157,7 +157,17 @@ A machine-learning project exploring vehicle emissions prediction using regressi
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=mrakesh-1811&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITORS" alt="Profile Visitors"/>
+<p align="center">
+  <img src="./rakesh_ai_cyber_banner.png" width="100%" alt="Rakesh AI ML Banner">
+</p>
 
+<p align="center">
+  <img src="./rakesh_scanner.gif" width="100%" alt="AI Scanner">
+</p>
+
+<p align="center">
+  <img src="./assets/avatar.png" width="200" alt="Rakesh Avatar">
+</p>
 <br/><br/>
 
 # ⚡ CODE • BUILD • INNOVATE ⚡
