@@ -1,126 +1,147 @@
 
 <div align="center">
 
-<img src="rakesh_neon_fire.gif" width="100%" alt="Rakesh Neon Fire Animation"/>
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="38%" align="center" valign="middle">
-
-<img src="assets/avatar.png" width="100%" alt="Rakesh Neon Avatar"/>
+<img src="rakesh_neon_fire_banner.png" width="100%" alt="M Rakesh Neon AI Banner"/>
 
 <br/>
 
-<sub><b>[ M RAKESH • AI & ML ]</b></sub>
+# <span style="color:#8B5CF6">Hey, I'm</span> <span style="color:#22D3EE">M Rakesh</span> 👋
 
-<br/><br/>
+### 💻 AI & Machine Learning Student | Future AI Engineer
 
-<img src="rakesh-ai-scan/scan-avatar.svg" width="420" alt="Mekapati Rakesh AI Scanning Portrait"/>
-</td>
+<img src="rakesh-ai-scan/scan-avatar.svg" width="350" alt="M Rakesh AI Scanning Avatar"/>
 
-<td width="62%" valign="middle">
+<br/>
 
-# Hi 👋
-
-# I'm <span style="color:#22d3ee">M Rakesh</span>
-
-`AI & Machine Learning Student | Aspiring AI Engineer`
-
-**LOCATION** &nbsp; Hyderabad, India  
-**EDUCATION** &nbsp; B.Tech CSE — AI & ML, SRM KTR  
-**FOCUS** &nbsp; Python • C++ • DSA • Machine Learning  
-**GITHUB** &nbsp; [mrakesh-1811](https://github.com/mrakesh-1811)
-
-### SKILLS
-
-![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=35D8FF)
-![C](https://img.shields.io/badge/C-111827?style=flat&logo=c&logoColor=35D8FF)
-![C++](https://img.shields.io/badge/C++-111827?style=flat&logo=cplusplus&logoColor=35D8FF)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=flat&logo=scikitlearn&logoColor=35D8FF)
-![Git](https://img.shields.io/badge/Git-111827?style=flat&logo=git&logoColor=35D8FF)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=35D8FF)
-
-</td>
-</tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Student;Building+my+future+with+code;Learning+Python+%7C+C%2B%2B+%7C+ML;Code.+Build.+Innovate.+Repeat.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+## 🧑‍💻 About Me
+
+<img align="right" width="140" src="assets/avatar.png" alt="Rakesh Avatar"/>
+
+- 🎓 B.Tech CSE — Artificial Intelligence & Machine Learning
+- 🏫 SRM Institute of Science and Technology, Kattankulathur
+- 📍 Hyderabad, India
+- 🧠 Exploring Artificial Intelligence and Machine Learning
+- 💻 Learning Python, C, C++ and Data Structures & Algorithms
+- 🔬 Interested in building real-world intelligent systems
+- 🚀 Goal: Become an AI/ML Engineer
+
+> **I don't just want to learn technology. I want to build something meaningful with it.**
+
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Stack
+
 <div align="center">
 
-### `BUILD • LEARN • GROW`
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark"/>
+
+### AI • ML • Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,numpy&theme=dark"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 
 </div>
 
-- 👋 I'm a **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology, Kattankulathur**, building my foundations in computer science, AI, and machine learning.
-- 🛠️ I enjoy building, debugging, and understanding how technology works.
-- 📚 Currently learning **Python, Data Structures & Algorithms, and Machine Learning**.
-- 🎯 Working toward becoming an **AI/ML Engineer**.
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrakesh-1811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrakesh-1811&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=mrakesh-1811&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Project
 
+<div align="center">
+
+<a href="https://github.com/mrakesh-1811/vehicle-emissions-ml">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrakesh-1811&repo=vehicle-emissions-ml&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
+
 ### 🚗 Vehicle Emissions Prediction using Machine Learning
 
-A machine-learning project comparing regression models for vehicle CO₂ emissions prediction.
+A machine learning project exploring vehicle emissions prediction using regression algorithms.
 
-- **Models:** Linear Regression • Random Forest • Gradient Boosting
-- **Metrics:** MAE • RMSE • R²
-- **Tools:** Python • Pandas • NumPy • Scikit-learn
-- **Dataset:** Sample synthetic dataset for practice and testing.
+- 🤖 Linear Regression
+- 🌲 Random Forest
+- ⚡ Gradient Boosting
+- 📊 MAE, RMSE & R² evaluation
+- 🛠️ Python, Pandas, NumPy, Scikit-learn
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Vehicle Emissions ML](https://github-readme-stats.vercel.app/api/pin/?username=mrakesh-1811&repo=vehicle-emissions-ml&theme=tokyonight&hide_border=true)](https://github.com/mrakesh-1811/vehicle-emissions-ml)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrakesh-1811&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 My Current Mission
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mrakesh-1811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrakesh-1811&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=mrakesh-1811&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrakesh-1811&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/>
-
-</div>
+```text
+> Learn something new every day
+> Improve my problem-solving skills
+> Build real-world AI/ML projects
+> Master Data Structures & Algorithms
+> Turn ideas into working projects
+> Become an AI Engineer
+```
 
 ---
 
 <div align="center">
+
+<img src="rakesh_neon_fire.gif" width="100%" alt="Neon Rakesh Animation"/>
+
+### <span style="color:#22D3EE">BUILD • LEARN • CREATE • REPEAT</span>
 
 ### 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/mrakesh-1811)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakesh-m-84463837b/)
+<a href="https://github.com/mrakesh-1811">
+<img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rakesh-m-84463837b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mrakesh-1811&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITORS"/>
 
 <br/>
 
-### `CODE • CREATE • INNOVATE`
-
-<sub>Learning today. Building tomorrow. 🚀</sub>
+### <span style="color:#8B5CF6">⚡ Dream Big. Code Bigger. ⚡</span>
 
 </div>
