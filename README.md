@@ -14,7 +14,9 @@
 <img src="assets/avatar.png" width="100%" alt="Rakesh Neon Avatar"/>
 
 <sub><b>[ M RAKESH • AI & ML ]</b></sub>
-
+<div align="center">
+  <img src="scan-avatar.svg" width="420" alt="Mekapati Rakesh AI Scan"/>
+</div>
 </td>
 
 <td width="62%" valign="middle">
