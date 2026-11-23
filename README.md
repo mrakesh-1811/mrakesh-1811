@@ -4,7 +4,7 @@
 <tr>
 <td width="38%" align="center">
 
-<img src="assets/avatar.svg" width="100%" alt="Neon terminal avatar illustration"/>
+<img src="./avatar.svg" width="100%" alt="Neon terminal avatar illustration"/>
 
 <sub><b>[ M RAKESH • AI & ML ]</b></sub>
 
