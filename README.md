@@ -5,6 +5,10 @@
 
 <br/>
 
+<img src="rakesh_scanner.gif" width="480" alt="M Rakesh AI Scanner"/>
+
+<br/>
+
 # ⚡ M Rakesh
 
 ### AI & Machine Learning Student | Aspiring AI Engineer
@@ -135,5 +139,17 @@ Machine learning project to explore and predict vehicle emissions using regressi
 # ⚡ CODE • BUILD • INNOVATE ⚡
 
 ### <i>Turning ideas into intelligence.</i>
+
+<br/>
+
+<img src="rakesh_scanner.gif" width="480" alt="M Rakesh Neon AI Scanner"/>
+
+<br/>
+
+<h2>⚡ M Rakesh | AI & ML ⚡</h2>
+
+<p>
+<code>SCAN COMPLETE • HUMAN × AI • SYSTEM ONLINE</code>
+</p>
 
 </div>
