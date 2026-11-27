@@ -145,6 +145,57 @@ An Arduino-based robotics prototype exploring autonomous navigation through IR s
 <img src="https://img.shields.io/badge/PROJECT-ROBOTICS-A855F7?style=flat-square&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/STATUS-PROTOTYPE-22D3EE?style=flat-square&labelColor=0D1117"/>
 
+### 🏢 AI Smart Building Energy Optimizer
+
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-22D3EE?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DOMAIN-AI%20%C3%97%20ARCHITECTURE-A855F7?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TYPE-MACHINE%20LEARNING-FF00C8?style=flat-square&labelColor=0D1117"/>
+
+An AI-powered smart building energy management prototype
+using machine learning to predict energy consumption
+and recommend simulated HVAC adjustments.
+
+**Technical Achievements**
+
+| Metric | Result |
+| :--- | :--- |
+| Synthetic dataset | 8,760 records |
+| ML algorithm | Random Forest |
+| R² Score | 0.9882 |
+| MAE | 1.349 kWh |
+| RMSE | 1.692 kWh |
+| Example predicted energy savings | 12.22% |
+| Automated tests | 3/3 Passed |
+| Deployment | Streamlit Cloud |
+
+**Technologies**
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,github&theme=dark"/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+<a href="YOUR_STREAMLIT_URL">
+<img src="https://img.shields.io/badge/Launch_Live_Demo-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<a href="https://github.com/mrakesh-1811/ai-smart-building-energy-optimizer">
+<img src="https://img.shields.io/badge/Source_Code-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<a href="https://github.com/mrakesh-1811/ai-smart-building-energy-optimizer/blob/main/reports/TECHNICAL_REPORT.md">
+<img src="https://img.shields.io/badge/Technical_Report-FF00C8?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/mrakesh-1811/ai-smart-building-energy-optimizer/main/reports/dashboard.png" width="85%" alt="Smart Building AI Dashboard"/>
+
+> Simulation-based proof of concept using synthetic data.
+
+---
+
 ---
 
 <!-- ================= ALGORITHM LAB ================= -->
