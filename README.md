@@ -176,8 +176,8 @@ and recommend simulated HVAC adjustments.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-<a href="YOUR_STREAMLIT_https://ai-smart-building-energy-optimizer.streamlit.app/URL">
-<img src="https://img.shields.io/badge/Launch_Live_Demo-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117"/>
+<a href=["YOUR_STREAMLIT_https://ai-smart-building-energy-optimizer.streamlit.app/URL">
+<img src="https://img.shields.io/badge/Launch_Live_Demo-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117"/>](https://ai-smart-building-energy-optimizer.streamlit.app/)
 </a>
 
 <a href="https://github.com/mrakesh-1811/ai-smart-building-energy-optimizer">
