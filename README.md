@@ -418,6 +418,13 @@ I am open to learning, technical collaboration, research-oriented projects and i
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:FF00C8&height=120&section=footer" width="100%" alt="Neon Footer"/>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mrakesh-1811/ai-smart-building-energy-optimizer/main/reports/dashboard.png" width="85%" alt="Smart Building AI Dashboard"/>
+
+</div>
+
+
 </div>
 
 <picture>
