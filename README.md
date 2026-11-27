@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./assets/build-scan.gif" width="600" alt="M Rakesh Neon ASCII Animated Profile"/>
+<img src="./assets/build-scan.gif" width="100%" alt="M Rakesh Animated Neon ASCII Dashboard"/>
 
 # ⚡ M RAKESH
 
