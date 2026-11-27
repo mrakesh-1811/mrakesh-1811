@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./assets/build-scan.gif" width="600" alt="M Rakesh Neon ASCII Animated Profile"/>
+<img src="./assets/neon-banner.png" width="100%" alt="M Rakesh Neon ASCII Dashboard"/>
 
 # ⚡ M RAKESH
 
@@ -369,3 +369,12 @@ I am open to learning, technical collaboration, research-oriented projects and i
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:FF00C8&height=120&section=footer" width="100%" alt="Neon Footer"/>
 
 </div>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)"
+          srcset="./assets/build-neon.png" />
+  <img src="./assets/build-scan.gif"
+       width="600"
+       alt="M Rakesh Neon Build Profile" />
+</picture>
+
