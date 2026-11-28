@@ -168,18 +168,95 @@ The table describes the lab's intended learning scope. See the live application 
 </div><!-- ================= TECH STACK ================= -->💻 04 — Tech Stack & Skills
 <!-- ================= TECH STACK ================= -->
 💻 04 — Tech Stack & Skills
-Programming Languages
-    
-Machine Learning & Data Analysis
-    
-Development & Deployment
-     
-Web Development
-   
-Currently Learning & Exploring
-AI & Computer Vision: TensorFlow · PyTorch · OpenCV
-Backend: Flask · FastAPI · MySQL · Docker
-Architecture & Design: Blender · AutoCAD · SketchUp · Revit · BIM · Digital TwinsFF00C8?style=for-the-badge&labelColor=0D1117"/></div><!-- ================= CURRENT FOCUS ================= -->🎯 06 — Current Focus
+
+<!-- ================= TECH STACK ================= -->
+
+## 💻 04 — Tech Stack & Skills
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>⌘ 01 — Programming</h3>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" height="38"/>
+
+`Python` `C` `C++` `Java` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+<h3>◈ 02 — AI & Machine Learning</h3>
+
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="38"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=A855F7"/>
+
+`Scikit-learn` `Matplotlib` `Plotly`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚙ 03 — Development</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" height="38"/>
+
+`Git` `GitHub` `Arduino` `Pytest`
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="30"/>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>☁ 04 — Deployment</h3>
+
+<img src="https://img.shields.io/badge/Streamlit_Cloud-0D1117?style=flat-square&logo=streamlit&logoColor=22D3EE"/>
+
+<img src="https://img.shields.io/badge/GitHub_Pages-0D1117?style=flat-square&logo=github&logoColor=A855F7"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=22D3EE"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<h3>◎ 05 — Currently Learning</h3>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask,fastapi,mysql,docker&theme=dark" height="38"/>
+
+`Deep Learning` `Computer Vision` `Backend Development`
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<h3>◇ 06 — AI × Architecture</h3>
+
+<img src="https://skillicons.dev/icons?i=blender&theme=dark" height="38"/>
+<img src="https://img.shields.io/badge/AutoCAD-0D1117?style=flat-square&logo=autodesk&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/SketchUp-0D1117?style=flat-square&logo=sketchup&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/Revit-0D1117?style=flat-square&logo=autodesk&logoColor=22D3EE"/>
+
+**Exploration:** Computational Design · BIM · Digital Twins · Smart Buildings
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A855F7,100:22D3EE&height=2" width="100%"/>
+
+<sub>LEARN &nbsp; / &nbsp; BUILD &nbsp; / &nbsp; INNOVATE</sub>
+
+</div>
+
+<!-- ================= END TECH STACK ================= -->
+🎯 06 — Current Focus
 - Strengthening Python and C++ programming
 - Mastering Data Structures and Algorithms
 - Developing practical machine learning applications
