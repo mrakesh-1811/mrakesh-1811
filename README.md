@@ -166,41 +166,20 @@ The table describes the lab's intended learning scope. See the live application 
 
 <code>EXPLORE • COMPUTE • SOLVE • INNOVATE</code>
 </div><!-- ================= TECH STACK ================= -->💻 04 — Tech Stack & Skills
-<div align="center">Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" alt="Programming Languages"/>Machine Learning & Data Analysis
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>Deep Learning & Computer Vision — Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="Deep Learning and Computer Vision"/>Development & Prototyping
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" alt="Development Tools"/>
-<img src="https://img.shields.io/badge/Pytest-009FE3?style=for-the-badge&logo=pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>Web Development
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web Development"/>Application Deployment
-<img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>Backend & Deployment — Learning Goals
-<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,docker&theme=dark" alt="Backend and Deployment"/>Architecture & Design — Exploration
-<img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender"/>
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Revit-0696D7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Digital_Twins-8B5CF6?style=for-the-badge"/></div><!-- ================= ENGINEERING INTERESTS ================= -->🏛️ 05 — Engineering Interests
-My primary interest is exploring the intersection of artificial intelligence and the built environment.
-Domain	Area of Interest
-Artificial Intelligence	Intelligent decision-making systems
-Machine Learning	Predictive modeling and applied AI
-Deep Learning	Neural networks and pattern recognition
-Computer Vision	Visual perception and floor plan analysis
-Architecture	Computational and generative design
-Spatial Computing	Indoor navigation and space optimization
-Sustainability	Energy-efficient intelligent buildings
-Robotics	Autonomous navigation and embedded systems
-Digital Twins	Intelligent virtual building representations
-BIM	Building Information Modeling
-
-
-<div align="center"><img src="https://img.shields.io/badge/AI-INTELLIGENCE-22D3EE?style=for-the-badge&labelColor=0D1117"/><img src="https://img.shields.io/badge/ARCHITECTURE-DESIGN-A855F7?style=for-the-badge&labelColor=0D1117"/><img src="https://img.shields.io/badge/ENGINEERING-INNOVATION-FF00C8?style=for-the-badge&labelColor=0D1117"/></div><!-- ================= CURRENT FOCUS ================= -->🎯 06 — Current Focus
+<!-- ================= TECH STACK ================= -->
+💻 04 — Tech Stack & Skills
+Programming Languages
+    
+Machine Learning & Data Analysis
+    
+Development & Deployment
+     
+Web Development
+   
+Currently Learning & Exploring
+AI & Computer Vision: TensorFlow · PyTorch · OpenCV
+Backend: Flask · FastAPI · MySQL · Docker
+Architecture & Design: Blender · AutoCAD · SketchUp · Revit · BIM · Digital TwinsFF00C8?style=for-the-badge&labelColor=0D1117"/></div><!-- ================= CURRENT FOCUS ================= -->🎯 06 — Current Focus
 - Strengthening Python and C++ programming
 - Mastering Data Structures and Algorithms
 - Developing practical machine learning applications
