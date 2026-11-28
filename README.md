@@ -1,3 +1,4 @@
+
 <!-- ================= NEON HEADER ================= -->
 
 <div align="center">
@@ -72,6 +73,106 @@ I believe in learning through practical implementation, experimentation and cont
 
 ## 🚀 02 — Featured Projects
 
+### 🏢 AI Smart Building Energy Optimizer | V2.0
+
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-22D3EE?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DOMAIN-AI%20%C3%97%20ARCHITECTURE-A855F7?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/VERSION-2.0-FF00C8?style=flat-square&labelColor=0D1117"/>
+
+An AI-powered building energy management prototype combining machine learning, interactive 3D digital twins, HVAC scenario analysis and sustainable infrastructure.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mrakesh-1811/ai-smart-building-energy-optimizer/main/reports/dashboard-v2.png" width="95%" alt="Smart Building V2 Digital Twin Dashboard"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/R2_SCORE-0.9886-22D3EE?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SIMULATED_SAVINGS-15.78%25-A855F7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LOCAL_TESTS-7%2F7-22C55E?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+#### Technical Features
+
+- Interactive five-floor 3D building digital twin.
+- Machine learning-based energy demand forecasting.
+- HVAC setpoint scenario optimization.
+- Hourly occupancy heatmaps.
+- Electricity cost and carbon emission analytics.
+- Three regression models with validation-based selection.
+- User-provided CSV dataset integration.
+- Downloadable PDF and CSV simulation reports.
+- Automated testing and GitHub Actions configuration.
+- Streamlit Cloud deployment.
+
+#### Technical Achievements
+
+| Metric | Result |
+| :--- | :--- |
+| Synthetic dataset | 8,760 hourly records |
+| ML models compared | 3 |
+| Selected algorithm | Gradient Boosting |
+| Test R² Score | 0.9886 |
+| Test MAE | 1.3230 kWh |
+| Test RMSE | 1.6632 kWh |
+| Baseline daily energy | 1,291.02 kWh |
+| Optimized daily energy | 1,087.29 kWh |
+| Predicted energy savings | 15.78% |
+| Estimated daily cost savings | INR 1,629.86 |
+| Estimated avoided emissions | 142.61 kg CO2e |
+| Automated local tests | 7/7 Passed |
+| Deployment | Streamlit Cloud |
+
+<details>
+<summary><b>📊 View Model Comparison</b></summary>
+
+<br/>
+
+| Model | MAE | RMSE | R² |
+| :--- | ---: | ---: | ---: |
+| Linear Regression | 1.5696 | 2.1485 | 0.9809 |
+| Random Forest | 1.3564 | 1.6953 | 0.9881 |
+| **Gradient Boosting** | **1.3230** | **1.6632** | **0.9886** |
+
+<img src="https://raw.githubusercontent.com/mrakesh-1811/ai-smart-building-energy-optimizer/main/reports/analytics-v2.png" width="100%" alt="Occupancy Heatmap and Model Comparison"/>
+
+</details>
+
+#### Technologies
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,github&theme=dark" alt="Python Scikit-learn GitHub"/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly)
+![Pytest](https://img.shields.io/badge/Pytest-009FE3?style=flat-square&logo=pytest)
+
+<div align="center">
+
+<a href="https://ai-smart-building-energy-optimizer.streamlit.app/">
+<img src="https://img.shields.io/badge/Launch_Live_Demo-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/mrakesh-1811/ai-smart-building-energy-optimizer">
+<img src="https://img.shields.io/badge/Source_Code-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Source Code"/>
+</a>
+
+<a href="https://github.com/mrakesh-1811/ai-smart-building-energy-optimizer/blob/main/reports/v2_sample.pdf">
+<img src="https://img.shields.io/badge/Simulation_Report-FF00C8?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117" alt="Simulation Report"/>
+</a>
+
+<a href="https://github.com/mrakesh-1811/ai-smart-building-energy-optimizer/actions">
+<img src="https://img.shields.io/badge/View_CI_Workflows-22C55E?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117" alt="CI Workflows"/>
+</a>
+
+</div>
+
+> Research prototype using synthetic data. Energy savings, cost reductions and carbon estimates are simulated, not measured real-world outcomes. No live sensors or physical HVAC control.
+
+---
+
 ### 🚗 Vehicle Emissions Prediction — Machine Learning
 
 An applied machine learning project exploring vehicle emissions prediction using regression techniques.
@@ -145,57 +246,6 @@ An Arduino-based robotics prototype exploring autonomous navigation through IR s
 <img src="https://img.shields.io/badge/PROJECT-ROBOTICS-A855F7?style=flat-square&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/STATUS-PROTOTYPE-22D3EE?style=flat-square&labelColor=0D1117"/>
 
-### 🏢 AI Smart Building Energy Optimizer
-
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-22D3EE?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/DOMAIN-AI%20%C3%97%20ARCHITECTURE-A855F7?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/TYPE-MACHINE%20LEARNING-FF00C8?style=flat-square&labelColor=0D1117"/>
-
-An AI-powered smart building energy management prototype
-using machine learning to predict energy consumption
-and recommend simulated HVAC adjustments.
-
-**Technical Achievements**
-
-| Metric | Result |
-| :--- | :--- |
-| Synthetic dataset | 8,760 records |
-| ML algorithm | Random Forest |
-| R² Score | 0.9882 |
-| MAE | 1.349 kWh |
-| RMSE | 1.692 kWh |
-| Example predicted energy savings | 12.22% |
-| Automated tests | 3/3 Passed |
-| Deployment | Streamlit Cloud |
-
-**Technologies**
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,github&theme=dark"/>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-<a href=["YOUR_STREAMLIT_https://ai-smart-building-energy-optimizer.streamlit.app/URL">
-<img src="https://img.shields.io/badge/Launch_Live_Demo-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117"/>](https://ai-smart-building-energy-optimizer.streamlit.app/)
-</a>
-
-<a href="https://github.com/mrakesh-1811/ai-smart-building-energy-optimizer">
-<img src="https://img.shields.io/badge/Source_Code-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
-
-<a href="https://github.com/mrakesh-1811/ai-smart-building-energy-optimizer/blob/main/reports/TECHNICAL_REPORT.md">
-<img src="https://img.shields.io/badge/Technical_Report-FF00C8?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117"/>
-</a>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/mrakesh-1811/ai-smart-building-energy-optimizer/main/reports/dashboard.png" width="85%" alt="Smart Building AI Dashboard"/>
-
-> Simulation-based proof of concept using synthetic data.
-
----
-
 ---
 
 <!-- ================= ALGORITHM LAB ================= -->
@@ -266,6 +316,7 @@ The table describes the lab's intended learning scope. See the live application 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
 
 ### Deep Learning & Computer Vision — Learning
 
@@ -275,9 +326,19 @@ The table describes the lab's intended learning scope. See the live application 
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" alt="Development Tools"/>
 
+<br/>
+
+<img src="https://img.shields.io/badge/Pytest-009FE3?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
 ### Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web Development"/>
+
+### Application Deployment
+
+<img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
 
 ### Backend & Deployment — Learning Goals
 
@@ -367,12 +428,80 @@ My primary interest is exploring the intersection of artificial intelligence and
 <!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
 ## 📈 08 — Contribution Activity
-## 📈 08 — Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=mrakesh-1811&bg_color=0D1117&color=00D9FF&line=A855F7&point=FF00C8&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://img.shields.io/badge/DEVELOPMENT-LEARN%20%7C%20BUILD%20%7C%20CONTRIBUTE-22D3EE?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<a href="https://github.com/mrakesh-1811#year-link-2026">
+<img src="https://img.shields.io/badge/View_Contribution_Activity-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View GitHub Contribution Activity"/>
+</a>
+
+<a href="https://github.com/mrakesh-1811?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore Repositories"/>
+</a>
+
+<br/><br/>
+
+<code>CONSISTENCY × CURIOSITY × CONTINUOUS IMPROVEMENT</code>
 
 </div>
 
 ---
+
+<!-- ================= CONNECT ================= -->
+
+## 🤝 09 — Connect With Me
+
+I am open to learning, technical collaboration, research-oriented projects and internship opportunities in Artificial Intelligence and Machine Learning.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rakesh-m-84463837b/">
+<img src="https://img.shields.io/badge/LinkedIn-Mekapati_Rakesh-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<a href="https://github.com/mrakesh-1811">
+<img src="https://img.shields.io/badge/GitHub-mrakesh--1811-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+### Open to learning, collaboration and internship opportunities.
+
+</div>
+
+---
+
+<!-- ================= NEON SCANNING ANIMATION ================= -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/build-neon.png"/>
+  <img src="./assets/build-scan.gif" width="600" alt="M Rakesh Neon Build Profile"/>
+</picture>
+
+</div>
+
+<!-- ================= NEON FOOTER ================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=CODE+%E2%80%A2+BUILD+%E2%80%A2+INNOVATE;Turning+Ideas+Into+Intelligence;Engineering+a+Smarter+Future" alt="Footer Animation"/>
+
+<br/>
+
+<code>BUILD · LEARN · ENGINEER</code>
+
+<br/><br/>
+
+<code>HUMAN × AI | SYSTEM ONLINE</code>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:FF00C8&height=120&section=footer" width="100%" alt="Neon Footer"/>
+
+</div>
