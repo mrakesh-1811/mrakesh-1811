@@ -71,7 +71,13 @@ Estimated daily cost savings	INR 1,629.86
 Estimated avoided emissions	142.61 kg CO2e
 Automated local tests	7/7 Passed
 Deployment	Streamlit Cloud
+<div align="center">
 
+  <a href="https://github.com/users/mrakesh-1811/projects/3">
+    <img src="https://img.shields.io/badge/⚡_EXPLORE_MY_ENGINEERING_PORTFOLIO-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore Engineering Portfolio"/>
+  </a>
+
+</div>
 
 <details>
 <summary><b>📊 View Model Comparison</b></summary>
