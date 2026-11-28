@@ -367,70 +367,12 @@ My primary interest is exploring the intersection of artificial intelligence and
 <!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
 ## 📈 08 — Contribution Activity
+## 📈 08 — Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrakesh-1811&bg_color=0D1117&color=00D9FF&line=A855F7&point=FF00C8&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=mrakesh-1811&bg_color=0D1117&color=00D9FF&line=A855F7&point=FF00C8&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
-
-<!-- ================= CONNECT ================= -->
-
-## 🤝 09 — Connect With Me
-
-I am open to learning, technical collaboration, research-oriented projects and internship opportunities in Artificial Intelligence and Machine Learning.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rakesh-m-84463837b/">
-<img src="https://img.shields.io/badge/LinkedIn-Mekapati_Rakesh-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-</a>
-
-<a href="https://github.com/mrakesh-1811">
-<img src="https://img.shields.io/badge/GitHub-mrakesh--1811-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
-
-<br/><br/>
-
-### Open to learning, collaboration and internship opportunities.
-
-</div>
-
----
-
-<!-- ================= NEON FOOTER ================= -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=CODE+%E2%80%A2+BUILD+%E2%80%A2+INNOVATE;Turning+Ideas+Into+Intelligence;Engineering+a+Smarter+Future" alt="Footer Animation"/>
-
-<br/>
-
-<code>BUILD · LEARN · ENGINEER</code>
-
-<br/><br/>
-
-<code>HUMAN × AI | SYSTEM ONLINE</code>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:FF00C8&height=120&section=footer" width="100%" alt="Neon Footer"/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mrakesh-1811/ai-smart-building-energy-optimizer/main/reports/dashboard.png" width="85%" alt="Smart Building AI Dashboard"/>
-
-</div>
-
-
-</div>
-
-<picture>
-  <source media="(prefers-reduced-motion: reduce)"
-          srcset="./assets/build-neon.png" />
-  <img src="./assets/build-scan.gif"
-       width="600"
-       alt="M Rakesh Neon Build Profile" />
-</picture>
